@@ -1,8 +1,8 @@
 # Martian Software's First Projects
 
-[Martian Software](https://martiansoftware.com) was around for a long time before I created [its GitHub organization](https://github.com/Martian-Software-Inc).  This repository links to the projects that predate this org.  They are still Martian Software projects, but for various reasons I do not want to move them from their original homes under [my personal GitHub account](https://github.com/martylamb/).
+[Martian Software](https://martiansoftware.com) was around for a long time before I created [its GitHub organization](https://github.com/Martian-Software-Inc).  This repository links to the projects that predate this org.  They are still Martian Software projects, but for various reasons I have not (yet?) moved them from their original homes under [my personal GitHub account](https://github.com/martylamb/).
 
-## Current(ish) Projects
+## Projects
 
 Some of these have been around for a while but remain useful.
 
